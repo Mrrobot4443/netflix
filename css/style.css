@@ -1,0 +1,63 @@
+        h2,
+        h4 {
+            color: white;
+        }
+        
+        .img {
+            background-image: url(../image/MA-fr-20220523-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+            border-bottom: 8px solid #222;
+            background-size: cover;
+            height: 80vh;
+        }
+        
+        .h1 {
+            font-size: 4em;
+            color: white;
+            padding-top: 80px;
+        }
+        
+        .inputs1 {
+            padding: 15px;
+            margin: 0;
+            width: 500px;
+        }
+        
+        .btn-2 {
+            padding: 15px;
+            font-size: 1em;
+        }
+        
+        .cla {
+            border-bottom: 8px solid #222;
+        }
+        
+        .enjoy {
+            font-size: 3em;
+            font-weight: 600;
+            margin-left: 50px;
+            margin-right: 35px;
+        }
+        
+        .watch {
+            font-size: 1.5em;
+            font-weight: 500;
+            margin-left: 50px;
+            margin-right: 35px;
+        }
+        
+        .midle {
+            background-image: url(../image/3540049.jpg);
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .col6-1 {
+            margin-left: 50px;
+            margin-right: 35px;
+        }
+        
+        .vid-1 {
+            position: relative;
+        }
+        
+        .img-tv {}
