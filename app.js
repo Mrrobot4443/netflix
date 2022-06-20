@@ -25,3 +25,4 @@ for (let i = 0; i < data.results.length; i++) {
 // }
 // let res = a()
 // console.log(res());
+$(li)
